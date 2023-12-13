@@ -6,6 +6,10 @@
 <br><br>
 🇧🇷 - Para download das EFIs BASEs, é necessário você ser membro de qualquer categoria no canal do YouTube e conectar seu Discord à sua conta YouTube para acesso à sala `#efi-base`;
 
+![youtube_connection](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-4THGEN-HASWELL-PUBLIC/assets/23700365/78bb5970-7af1-4691-b4c2-9a75c265e95b)
+<br>
+![efi-base-channel](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-4THGEN-HASWELL-PUBLIC/assets/23700365/b04b46b0-49cc-4e87-a281-9b17ef7bd80f)
+
 # Basic Info
 
 Note|Description
